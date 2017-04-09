@@ -10,11 +10,11 @@ For this example I used the following:
  - [Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)
  - D-SUN PIR (RCW-0506)
 
-![hardware](https://github.com/juliusspencer/CloudDoorbellWithPIR/doc_resources/hardware.jpg)
+![hardware](https://github.com/juliusspencer/CloudDoorbellWithPIR/blob/master/doc_resources/hardware.jpg)
 
 # Setup
 Using a breadboard I have used BCM26 (pin 34) to plug the output from the PIR into the Raspberry Pi.
 
 Power is supplied from pin 4 and ground is pin 14.
 
-![diagram](https://github.com/juliusspencer/CloudDoorbellWithPIR/doc_resources/androidthings_doorbell_pir_diagram.png)
+![diagram](https://github.com/juliusspencer/CloudDoorbellWithPIR/blob/master/doc_resources/androidthings_doorbell_pir_diagram.png)
