@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Door Bell</string>
+	<string name="moving">Moving</string>
+	<string name="still">Still</string>
+</resources>
